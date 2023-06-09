@@ -11,6 +11,8 @@ Script9 sets the mode of the file hello
 Script 10 sets the mode of the file hello the same as olleh’s mode
 Script11 adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 Script12 creates a directory called my_dir with permissions 751 in the working directory
+Script 13 changes the group owner to school for the file hello
+
 
 
 
