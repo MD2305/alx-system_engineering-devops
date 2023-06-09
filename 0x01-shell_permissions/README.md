@@ -9,6 +9,8 @@ Script7 adds execution permission to the owner, the group owner and the other us
 Script8 sets the permission to the file hello as follows:Owner: no permission at all Group: no permission at all Other users: all the permissions
 Script9 sets the mode of the file hello
 Script 10 sets the mode of the file hello the same as olleh’s mode
+Script11 adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+
 
 
 
