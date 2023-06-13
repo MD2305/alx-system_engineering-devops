@@ -14,6 +14,7 @@ Script12 displays the 10 newest files in the current directory.
 Script13 takes a list of words as input and prints only words that appear exactly once
 Script14 Display lines containing the pattern “root” from the file /etc/passwd
 Scrpit 15 Display the number of lines that contain the pattern “bin” in the file /etc/passwd
+Script16 Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
 
 
 
